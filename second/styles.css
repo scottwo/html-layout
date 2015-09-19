@@ -1,0 +1,33 @@
+div {
+    display: inline-block;
+    height: 100%;
+    width: 33%;
+}
+
+.left {
+    background-color: #49A9FF;
+}
+
+.mid {
+    background-color: #4FFFC8;
+}
+
+.right {
+    background-color: #ADFF69;
+    position: absolute;
+    height: 97.75%;
+}
+
+.absl {
+    background-color: #C72100;
+    height: 30.8%;
+    width: 100%;
+    font-family: sans-serif;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 30px;
+    bottom: 0px;
+    position: absolute;
+}

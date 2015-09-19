@@ -1,0 +1,33 @@
+.outer {
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+}
+
+#top {
+    background-color: black;
+    width: 100%;
+    height: 10%;
+}
+
+#left {
+    background-color: darkgrey;
+    float: left;
+    width: 10%;
+    height: 100%
+}
+
+#bottom {
+    background-color: lightgrey;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 90%;
+    height: 10%;
+}
+
+#right {
+    background-color: dimgrey;
+    float: right;
+    height: 100%;
+    width: 10%;
+}

@@ -1,0 +1,45 @@
+div {
+    width: 50%;
+    height: 20%;
+    position: relative;
+}
+
+.nav {
+    background-color: lightgray;
+    height: 10%;
+}
+
+.nav div {
+    background-color: royalblue;
+    width: 50px;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+
+.text {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+    color: darkgrey;
+}
+
+.blue {
+    background-color: royalblue;
+}
+
+.teal {
+    background-color: mediumspringgreen;
+}
+
+.green {
+    background-color: yellowgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
